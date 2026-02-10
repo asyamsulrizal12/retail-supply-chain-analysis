@@ -30,7 +30,7 @@ This project showcases a complete end-to-end analytics workflow for retail suppl
 1. Clone the repository: `git clone https://github.com/yourusername/Retail-Supply-Chain-Analysis.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run notebooks in sequence for step-by-step analysis
-4. - Review reports/ and docs/ for summarized insights
+4. Review reports/ and docs/ for summarized insights
 
 ---
 
